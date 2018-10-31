@@ -16,7 +16,7 @@ This project contains the automated test-scripts generated through Selenium IDE 
        I chose to automate this scenario because it should not impact the users of any country.
        
  5(b). Destination_page load more test - 
-       It is important to test this scenario because Users should always be able to navigate        complete page using load          more button.  
+       It is important to test this scenario because Users should always be able to navigate complete page using load                more button.  
 
 Note - 
 
