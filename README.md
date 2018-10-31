@@ -12,12 +12,15 @@ This project contains the automated test-scripts for the following tasks -
     
  Reason for choosing 5(a) and 5(b) -
  
- 5(a). Footer locate drop down  -   I chose to automate this scenario because it should not impact the users of any country.
- 5(b). Destination_page load more test - It is important to test this scenario because Users should always be able to navigate        complete page using load more button.  
+ 5(a). Footer locate drop down  -   
+       I chose to automate this scenario because it should not impact the users of any country.
+       
+ 5(b). Destination_page load more test - 
+       It is important to test this scenario because Users should always be able to navigate        complete page using load          more button.  
 
 Note - 
 
-The test scripts attached with project have following limitations -
+The test scripts attached with this project have following limitations -
 
   1. Search for any location on Room5 by using the search bar -  
      This test can only check the functionality of the search bar, as the content of the page is dynamic and asserting over        any dynamic content may cause the test to fail even if the search bar is working fine.
