@@ -1,6 +1,6 @@
 # trivago-task2
 
-This project contains the automated test-scripts for the following tasks -
+This project contains the automated test-scripts generated through Selenium IDE for the following tasks -
 
   1. Search for any location on Room5 by using the search bar 
   2. Fill in the contact form and send it (accessible through the footer) 
