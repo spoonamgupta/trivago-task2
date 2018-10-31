@@ -12,11 +12,9 @@ This project contains the automated test-scripts generated through Selenium IDE 
     
  Reason for choosing 5(a) and 5(b) -
  
- 5(a). Footer locate drop down  -   
-       I chose to automate this scenario because it should not impact the users of any country.
+ 5(a). Footer locate drop down  - I chose to automate this scenario because it should not impact the users of any country.
        
- 5(b). Destination_page load more test - 
-       It is important to test this scenario because Users should always be able to navigate complete page using load                more button.  
+ 5(b). Destination_page load more test - It is important to test this scenario because Users should always be able to navigate        complete page using load more button.  
 
 Note - 
 
